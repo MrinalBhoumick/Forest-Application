@@ -117,18 +117,13 @@ def generate_pdf(data):
 
     3. Creative Additions:
     - Write a poem or story about a forest adventure where animals work together to protect nature.
-    - Imagine being a tree for a day — describe your experience standing tall and helping the planet.
+    - Imagine being a tree for a day -- describe your experience standing tall and helping the planet.
     - Think of a festival called "Forest Day" where children plant trees, sing songs, and make posters.
     - Share your ideas for forest slogans like:
         * "Save Forests, Save Future!"
         * "Plant Trees, Breathe Easy!"
         * "Green Earth, Happy Earth!"
     - Describe your dream forest with colorful birds, peaceful rivers, and smiling trees.
-
-    4. Conclusion:
-    Forests are a gift of nature. We must care for them like we care for our family and friends. 
-    By planting trees and stopping deforestation, we protect our future. 
-    Let's promise to love and save our forests so that the Earth remains a beautiful and happy place for all.
     """
     pdf.multi_cell(0, 10, paragraph)
 
